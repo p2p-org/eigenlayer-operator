@@ -1,7 +1,7 @@
 {
-  "name": "aethos by P2P.org",
+  "name": "Aethos by P2P.org",
   "website": "https://p2p.org/",
-  "description": "aethos's Eigenlayer Operator operated by P2P.org. Leading Institutional Staking and RPC Node provider.",
+  "description": "Aethos's Eigenlayer Operator operated by P2P.org. Leading Institutional Staking and RPC Node provider.",
   "logo": "https://raw.githubusercontent.com/p2p-org/eigenlayer-operator/main/aethos-logo.png",
   "twitter": "https://x.com/P2Pvalidator"
 }
