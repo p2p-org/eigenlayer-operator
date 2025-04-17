@@ -1,7 +1,7 @@
 {
-  "name": "P2P.org [all AVS]",
+  "name": "P2P.org [no slashing AVS]",
   "website": "https://p2p.org/",
-  "description": "Forget FOMO with P2P.org. Delegate and be sure we onboard all possible AVS and share any airdrops with delegators.  Each AVS will be thoroughly evaluated before slashing is enabled, projected for Q3. P2P.org is a global leader with $7.5 billion and over 90,000 delegators across 40+ networks.",
+  "description": "Stay safe with P2P.org, a global (re)staking leader with $5B+ and 90K+ delegators. We take slashing risks seriously and won’t opt into AVS with slashing in the coming months. We’re conducting in-depth risk research, and once risks are clear, stress tests are complete, and the risk-reward is justified, we’ll notify users of any slashing plans, at least 1 month in advance via multiple channels.",
   "logo": "https://raw.githubusercontent.com/p2p-org/eigenlayer-operator/main/logo.png",
   "twitter": "https://x.com/P2Pvalidator"
 }
